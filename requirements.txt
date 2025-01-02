@@ -1,0 +1,9 @@
+streamlit
+numpy
+pandas
+matplotlib
+requests
+psycopg2
+dotenv
+fastapi
+uvicorn
