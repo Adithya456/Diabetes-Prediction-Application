@@ -1,5 +1,7 @@
 # Diabetes Prediction Application
 
+![Application Home Page](./DiabetesAppHomePage.png)
+
 ## Project Description
 This project uses a machine learning model to predict diabetes risk based on user-provided input features. The application includes a user-friendly interface built with Streamlit, offering individual and batch prediction options, feature importance visualization, and a feedback mechanism. The entire application, including the machine learning model, API, and Streamlit front-end, is deployed on Google Cloud Platform (GCP).
 
