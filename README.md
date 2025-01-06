@@ -1,4 +1,4 @@
-# Diabetes Prediction Application
+# Diabetes Prediction System: ML Model with Streamlit UI and GCP Deployment
 
 ![Application Home Page](./DiabetesAppHomePage.png)
 
